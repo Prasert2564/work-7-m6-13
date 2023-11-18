@@ -1,5 +1,6 @@
 {
     "name": "work 7 m.6-13",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
